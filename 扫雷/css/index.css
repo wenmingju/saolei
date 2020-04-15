@@ -1,0 +1,99 @@
+#saolei{
+    margin: 50px  auto;
+}
+
+#saolei .btn{
+   text-align: center;
+   margin-bottom: 10px;
+}
+
+#saolei .btn button{
+    padding: 5px 15px;
+    background-color: #02a4ad;
+    color: #fff;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#saolei .btn button.active{
+    background-color: #00abff;
+}
+table{
+    border-spacing: 1px;
+    background-color: #929196;
+    margin: 0 auto;
+}
+td{
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    background: #ccc;
+    border: 2px solid;
+    border-color: #fff #a1a1a1 #a1a1a1 #fff;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+}
+
+.flag{
+    background:#d9d9d9 url(/images/flag.jpg) no-repeat center;
+    background-size: cover;
+}
+.mine{
+    background: #d9d9d9 url(/images/boom.jpg) no-repeat center;
+    background-size: cover;
+}
+
+
+#saolei .info{
+    text-align: center;
+    margin-top: 10px;
+}
+td.zero{
+    border-color: #d9d9d9;
+    background-color: #d9d9d9;
+}
+
+td.one{
+    border-color: #d9d9d9;
+    background-color: #d9d9d9;
+    color: #0332fe;
+}
+
+td.two{
+    border-color: #d9d9d9;
+    background-color: #d9d9d9;
+    color: #019f02;
+}
+td.three{
+    border-color: #d9d9d9;
+    background-color: #d9d9d9;
+    color: #ff2600;
+}
+td.four{
+    border-color: #d9d9d9;
+    background-color: #d9d9d9;
+    color: #93208f;
+}
+td.five{
+    border-color: #d9d9d9;
+    background-color: #d9d9d9;
+    color: #ff7f29;
+}
+td.six{
+    border-color: #d9d9d9;
+    background-color: #d9d9d9;
+    color: #ff3fff;
+}
+td.seven{
+    border-color: #d9d9d9;
+    background-color: #d9d9d9;
+    color: #3fffbf;
+}
+td.eight{
+    border-color: #d9d9d9;
+    background-color: #d9d9d9;
+    color: #22ee0f;
+}
+
